@@ -18,8 +18,8 @@ The Terminal is a powerful tool that allows developers to navigate and manage sy
 - `cd [directory]` - Changes the current directory.
 - `mkdir [name]` - Creates a new folder.
 - `rm [file]` - Deletes a file.
-### Screenshot of Commands Used
-![Screenshot-lap1](https://raw.githubusercontent.com/Ghassan-Omar/dev-diary/main/Screenshot-lap1.jpg)
+### Screenshot of Commands I Used
+![Screenshot of Commands](https://raw.githubusercontent.com/Ghassan-Omar/dev-diary/main/Screenshot-lap1.png)
 ## Markdown Formatting
 I’ve applied different Markdown formatting techniques in this README.md:
 - **Headers** (`#`, `##`, `###`) to structure content.
