@@ -19,7 +19,7 @@ The Terminal is a powerful tool that allows developers to navigate and manage sy
 - `mkdir [name]` - Creates a new folder.
 - `rm [file]` - Deletes a file.
 ### Screenshot of Commands Used
-(https://raw.githubusercontent.com/Ghassan-Omar/dev-diary/main/Screenshot lap1.jpg)
+![Screenshot of Commands Used](https://raw.githubusercontent.com/Ghassan-Omar/dev-diary/main/Screenshot lap1.jpg)
 ## Markdown Formatting
 I’ve applied different Markdown formatting techniques in this README.md:
 - **Headers** (`#`, `##`, `###`) to structure content.
